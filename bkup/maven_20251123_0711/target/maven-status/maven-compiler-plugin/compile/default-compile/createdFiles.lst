@@ -1,0 +1,4 @@
+com/library/dao/DatabaseConnection.class
+com/library/dao/MemberDAO.class
+com/library/controller/MemberController.class
+com/library/model/Member.class
