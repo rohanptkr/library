@@ -12,6 +12,7 @@ public class Member {
     private Date expiryDate;
     private String status;
     
+    // Constructors
     public Member() {}
     
     public Member(String memberId, String name, String email, String phone, 
