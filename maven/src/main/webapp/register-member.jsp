@@ -25,23 +25,18 @@
                     <input type="hidden" name="action" value="register">
                     
                     <div class="form-group">
-                        <label for="memberId">Member ID:</label>
-                        <input type="text" id="memberId" name="memberId" required>
-                    </div>
-                    
-                    <div class="form-group">
                         <label for="name">Full Name:</label>
-                        <input type="text" id="name" name="name" required>
+                        <input type="text" id="name" name="name" required placeholder="Enter member's full name">
                     </div>
                     
                     <div class="form-group">
                         <label for="email">Email:</label>
-                        <input type="email" id="email" name="email" required>
+                        <input type="email" id="email" name="email" required placeholder="Enter email address">
                     </div>
                     
                     <div class="form-group">
                         <label for="phone">Phone:</label>
-                        <input type="tel" id="phone" name="phone">
+                        <input type="tel" id="phone" name="phone" placeholder="Enter phone number">
                     </div>
                     
                     <div class="form-group">
